@@ -1,0 +1,15 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  background-color: #00C69A;
+  text-align: center;
+}
+
+.middle{
+  border: 1px solid white;
+  margin: auto;
+  width: 50%;
+
+}
